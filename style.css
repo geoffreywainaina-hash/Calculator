@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #1e1033;
+    scrollbar-width: none;
+    /* color: #ff4696; */ 
+
+    /* color: #e8deff; sections  */
+}
+
+html {
+    scroll-behavior: smooth;
+}
